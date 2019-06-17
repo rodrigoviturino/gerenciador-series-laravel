@@ -29,4 +29,5 @@ Route::get('/series', function () {
     $html .= "</ul>";
 
     return $html;
+    
 });
