@@ -20,4 +20,6 @@ class SeriesController extends Controller {
         return view('series.index', compact('series'));
         */
     }
+
+    
 }
